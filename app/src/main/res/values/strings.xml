@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAysncTask</string>
+    <string name="text_string">I am ready to start work!</string>
+    <string name="napping">Napping...</string>
+</resources>
